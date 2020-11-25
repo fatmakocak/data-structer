@@ -1,0 +1,6 @@
+Bir bilgisayar periyodik sinus fonksiyonu üreteci olarak kullanýlacaktýr. Bu amaçla 0-360 derece arasýnda tam açý deðerleri ve karþýlýk gelen sinus deðerleri dairesel çift yönlü bir baðlý listede tutulacaktýr. Baþlangýç açýsý pozitif verildiðinde bu açý deðerine kadar ilerleyip sonra ileri yönde gidilecektir. Baþlangýç açýsý negatif verildiðinde ise bu açý deðerine kadar geri yönde ilerleyip daha sonra geri yönde giderek periyodik sinyal üretilecektir. 
+a)	Veri yapýsýný oluþturarak sinüs deðerlerini baðlý listeye yerleþtiren metodu yazýnýz?
+b)	Baþlama açýsý alýp periyodik iþareti üreten metodu yazýnýz?
+c)	Kendisine parametre olarak bir periyod bilgisini (int) alan ve bu periyod bilgisi kadar oluþturulan sinyalleri ekrana çizen metodu yazýnýz?
+Teslim Tarihi: 04.11.2019 (Pazartesi)
+NOT:Ödevlerinizi USB flash bellekte getirmeniz gerekmektedir. Kendi bilgisayarýnýz ile getirseniz bile internet baðlantýsý olmayacaktýr. Ýnternet baðlantýsý tespit edilen ödevler sýfýr olarak deðerlendirilir. Laboratuavar süresince cep telefonu kullanmak yasaktýr. Cep telefonu ile gelen öðrencilerin giriþte telefonlarý toplanarak lab boyunca bir yerde muhafaza edilecektir. Ödev ile ilgili hazýrlanacak raporda bir kapak dosyasý(ödevin ne olduðu, adýnýz, numaranýz, ödev numarasý vb. bilgiler verilmelidir. Raporlar  el yazýsý ile yazýlmalýdýr.)
