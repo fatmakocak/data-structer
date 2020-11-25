@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ckadir
+ *
  */
 public class BagliListe {
 
