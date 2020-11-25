@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package odev2v2;
+package odev2;
 
 import java.applet.Applet;
 import java.awt.Graphics;
