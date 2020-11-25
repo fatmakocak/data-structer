@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ckadir
+ * @author fatmak
  */
 public class applett extends Applet {
 
