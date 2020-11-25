@@ -7,7 +7,7 @@ package odev;
 
 /**
  *
- * @author ckadir
+ * @author fatmak
  */
 public class node {
 
