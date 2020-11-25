@@ -7,7 +7,7 @@ package odev2;
 
 /**
  *
- * @author ckadir
+ * @author fatmak
  */
 public class list {
 
